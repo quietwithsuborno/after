@@ -10,7 +10,9 @@ Bongo Consumer Products Ltd. (BCPL) is a fictional Bangladeshi FMCG company whos
 
 This project builds a complete cost leakage diagnostic and recovery framework from the ground up: a Python data pipeline generating and cleaning synthetic supply chain data, a SQL Server star schema with 7 analytical views calculating leakage by supplier, route, and warehouse, and a 6-page Power BI dashboard delivering executive-ready insights with a prioritized 7-point recovery action plan.
 
-**Total leakage identified: ৳29.22 lakh. Estimated recoverable savings: ৳15.93 lakh (54.52%).**
+**Total leakage identified: ৳29.22 lakh.**
+
+**Estimated recoverable savings: ৳15.93 lakh (54.52%).**
 
 ---
 
@@ -108,9 +110,8 @@ These are conservative illustrative estimates. Actual recovery depends on negoti
 
 ## 📊 Dashboard Preview
 
-**Page 1 — Executive Summary**
 <p align="center">
-  <img src="04_power_bi/dashboard_image/01_executive_summary.PNG" alt="Executive Summary" width="800">
+  <img src="05_docs/dashboards_view.gif" alt="dashboard_view" width="800">
 </p>
 
 📸 **See [`dashboard_image`](06_powerbi/dashboard_image) for full-page captures of all 6 dashboard pages.**
